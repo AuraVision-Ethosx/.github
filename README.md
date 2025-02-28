@@ -1,7 +1,3 @@
-Aqui está um **README.md** para a sua organização no GitHub:  
-
----
-
 # AuraVision  
 
 **Descrição**  
